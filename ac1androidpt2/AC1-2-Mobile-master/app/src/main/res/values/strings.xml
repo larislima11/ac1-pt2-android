@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AC1-2</string>
+
+    <string name="zoo_phone">+55 15 99115-4936</string>
+    <string name="shopping_phone">+55 15 3042-1400</string>
+    <string name="parque_phone">+55 15 3228-1256</string>
+
+    <string name="zoo_website">https://meioambiente.sorocaba.sp.gov.br/zoologico/</string>
+    <string name="shopping_website">https://iguatemi.com.br/esplanada/</string>
+    <string name="parque_website">https://turismo.sorocaba.sp.gov.br/visite/parque-natural-chico-mendes/</string>
+
+    <string name="zoo_loc">R. Teodoro Kaisel, 883 - Vila Hortência, Sorocaba - SP, 18020-268</string>
+    <string name="shopping_loc">Avenida Professora Izoraida Marques Peres - Parque Campolim, Sorocaba - SP, 18110-650"</string>
+    <string name="parque_loc">Av. Três de Março, 1025 - Alto da Boa Vista, Sorocaba - SP, 18087-180</string>
+</resources>
